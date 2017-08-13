@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Profile2</string>
+    <string name="username">Anton Petrov</string>
+    <string name="email">helloworld@gmail.com</string>
+</resources>
